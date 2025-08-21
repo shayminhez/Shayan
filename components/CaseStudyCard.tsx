@@ -10,7 +10,7 @@ type CaseStudy = {
   problem: string;
   approach: string;
   outcome: string;
-  video: { src: string; thumbnail: string; platform?: "youtube"|"vimeo"|"file" };
+  video: { src: string; thumbnail: string; platform?: string };
   stills: string[];
   tools: string[];
 };
