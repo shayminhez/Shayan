@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "motion-graphics",
+    "title": "Motion Graphics",
+    "description": "Explainers, promo, logo reveals."
+  },
+  {
+    "slug": "video-edits",
+    "title": "Video Edits",
+    "description": "Music videos, shorts, commercial cuts."
+  },
+  {
+    "slug": "3d",
+    "title": "3D",
+    "description": "Design, animation, rendering."
+  },
+  {
+    "slug": "graphic-designs",
+    "title": "Graphic Designs",
+    "description": "Brand assets, posters, socials."
+  }
+]

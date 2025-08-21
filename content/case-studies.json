@@ -1,0 +1,25 @@
+[
+  {
+    "slug": "sample-ayan",
+    "title": "Showreel Snippet",
+    "role": "Motion Designer (2024)",
+    "problem": "Create an instantly engaging opener that showcases range and clean aesthetics.",
+    "approach": "Minimal typography, tight timing, and clean iconography with elegant easing.",
+    "outcome": "Reusable reel intro used across channels with high retention.",
+    "video": {
+      "src": "https://www.youtube.com/watch?v=9ZNAoQlRNc0",
+      "thumbnail": "https://img.youtube.com/vi/9ZNAoQlRNc0/maxresdefault.jpg",
+      "platform": "youtube"
+    },
+    "stills": [
+      "https://img.youtube.com/vi/9ZNAoQlRNc0/hqdefault.jpg",
+      "https://img.youtube.com/vi/9ZNAoQlRNc0/sddefault.jpg",
+      "https://img.youtube.com/vi/9ZNAoQlRNc0/maxresdefault.jpg"
+    ],
+    "tools": [
+      "After Effects",
+      "Illustrator",
+      "Premiere"
+    ]
+  }
+]
